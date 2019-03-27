@@ -35,3 +35,7 @@ Also, I know exactly what to train thanks to the following roadmap :)
 
 -   [ ] **Access**
     -   [ ] database relationships
+
+
+## Resources
+- [List of algorithm steps reference [Polish]](https://eduinf.waw.pl/inf/alg/001_search/0001.php)
