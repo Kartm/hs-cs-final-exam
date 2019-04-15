@@ -13,12 +13,12 @@ Also, I know exactly what to train thanks to the following roadmap :)
 
 -   [ ] **Programming**
 
-    -   [ ] bubble sort
-    -   [ ] linear sort
-    -   [ ] quick sort
-    -   [ ] greatest common divisor
-    -   [ ] least common multiple
-    -   [ ] palindromes
+    -   [x] bubble sort
+    -   [x] insertion sort
+    -   [x] quick sort
+    -   [x] greatest common divisor
+    -   [x] least common multiple
+    -   [x] palindromes
     -   [ ] anagrams
     -   [ ] files - operations on files (write/save)
     -   [ ] splitting - splitting strings, numbers
@@ -30,7 +30,7 @@ Also, I know exactly what to train thanks to the following roadmap :)
 
 -   [ ] **Excel**
 
-    -   [ ] Write down useful functions
+    -   [ ] Note useful functions
     -   [ ] Do some exercises
 
 -   [ ] **Access**
