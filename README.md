@@ -19,9 +19,9 @@ Also, I know exactly what to train thanks to the following roadmap :)
     -   [x] greatest common divisor
     -   [x] least common multiple
     -   [x] palindromes
-    -   [ ] anagrams
-    -   [ ] files - operations on files (write/save)
-    -   [ ] splitting - splitting strings, numbers
+    -   [x] anagrams
+    -   [x] files - operations on files (write/save)
+    -   [x] splitting - splitting strings, numbers
     -   [x] conversion between numeral systems
 
 -   [ ] **Networking**
