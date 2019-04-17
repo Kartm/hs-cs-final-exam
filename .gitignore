@@ -2,3 +2,6 @@
 *.obj
 *.exe
 *.out
+
+# Excel temporary
+~$*.xls*

@@ -2,16 +2,13 @@
 
 #### My preperations for the High School Final IT Exam.
 
-I'm convinced that the best way to study something IT-related is to use it in practice.
-Also, I know exactly what to train thanks to the following roadmap :)
-
 > For the things we have to learn before we can do them, we learn by doing them.
 >
 > > _Aristotle_
 
-## Learning roadmap and file structure:
+## Learning roadmap:
 
--   [ ] **Programming**
+-   [x] **Programming**
 
     -   [x] bubble sort
     -   [x] insertion sort
@@ -23,6 +20,14 @@ Also, I know exactly what to train thanks to the following roadmap :)
     -   [x] files - operations on files (write/save)
     -   [x] splitting - splitting strings, numbers
     -   [x] conversion between numeral systems
+    -   [x] caesar cipher
+    -   [x] factorization
+    -   [x] dividers
+    -   [x] primes
+    -   [x] square roots
+    -   [x] perfect numbers
+    -   [x] fibonacci's sequence
+    -   [x] factorials
 
 -   [ ] **Networking**
 
@@ -30,12 +35,14 @@ Also, I know exactly what to train thanks to the following roadmap :)
 
 -   [ ] **Excel**
 
-    -   [ ] Note useful functions
+    -   [x] Note useful functions
     -   [ ] Do some exercises
 
--   [ ] **Access**
-    -   [ ] database relationships
-
+-   [x] **Access**
+    -   [x] database relationships
+    -   [ ] Do some exercises
 
 ## Resources
-- [List of algorithm steps reference [Polish]](https://eduinf.waw.pl/inf/alg/001_search/0001.php)
+
+-   [List of algorithm steps reference [Polish]](https://eduinf.waw.pl/inf/alg/001_search/0001.php)
+-   [How to prepare for IT exams?[Polish]](http://binarnie.pl/maturazinformatyki/)
