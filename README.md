@@ -28,6 +28,15 @@
     -   [x] perfect numbers
     -   [x] fibonacci's sequence
     -   [x] factorials
+    -   [ ] custom sorting functions
+    -   [ ] structures
+    -   [ ] reverse polish notation
+    -   [x] numerical integration
+    -   [ ] Horner's method
+    -   [ ] triangles
+    -   [ ] searching for substring
+    -   [ ] determining the roots of a function
+    -   [x] strtol - converting string to long int
 
 -   [ ] **Networking**
 
@@ -36,13 +45,14 @@
 -   [ ] **Excel**
 
     -   [x] Note useful functions
-    -   [ ] Do some exercises
+    -   [ ] matura exercises
 
 -   [x] **Access**
     -   [x] database relationships
-    -   [ ] Do some exercises
+    -   [ ] matura exercises
 
 ## Resources
 
 -   [List of algorithm steps reference [Polish]](https://eduinf.waw.pl/inf/alg/001_search/0001.php)
--   [How to prepare for IT exams?[Polish]](http://binarnie.pl/maturazinformatyki/)
+-   [How to prepare for IT exams? [Polish]](http://binarnie.pl/maturazinformatyki/)
+-   [Useful algorithms and concepts [Polish]](https://sszczep.github.io/Niezbednik-Maturzysty-Informatyka/)
