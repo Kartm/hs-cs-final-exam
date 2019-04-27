@@ -28,14 +28,14 @@
     -   [x] perfect numbers
     -   [x] fibonacci's sequence
     -   [x] factorials
-    -   [ ] custom sorting functions
-    -   [ ] structures
+    -   [x] custom sorting functions
+    -   [x] structures
     -   [ ] reverse polish notation
     -   [x] numerical integration
     -   [ ] Horner's method
     -   [ ] triangles
     -   [ ] searching for substring
-    -   [ ] determining the roots of a function
+    -   [x] determining the roots of a function
     -   [x] strtol - converting string to long int
 
 -   [ ] **Networking**
