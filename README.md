@@ -30,11 +30,22 @@
     -   [x] factorials
     -   [x] custom sorting functions
     -   [x] structures
-    -   [ ] reverse polish notation
+    -   [x] reverse polish notation - shunting yard algorithm
     -   [x] numerical integration
-    -   [ ] Horner's method
-    -   [ ] triangles
+    -   [x] utilizing Horner's method to calculate the value of a polymonial
+    -   [x] utilizing Horner's method for converting to decimals
+    -   [x] checking the rule of a triangle
+    -   [ ] location of points relative to a line
+    -   [ ] checking whether a point belongs to a line
+    -   [ ] intersections of sectors
+    -   [ ] checking whether a point belongs to an area
     -   [ ] searching for substring
+    -   [ ] binary tree
+    -   [ ] sorting by lexicographical order
+    -   [ ] giving the change
+    -   [ ] morse code
+    -   [ ] Huffman coding
+    -   [ ] transposition cipher
     -   [x] determining the roots of a function
     -   [x] strtol - converting string to long int
 
