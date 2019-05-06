@@ -43,6 +43,8 @@
     -   [x] sorting by lexicographical order
     -   [x] binary search
     -   [x] factorial number system
+    -   [ ] calculating pi
+    -   [ ] upper/lower case
     -   [ ] intersections of sectors
     -   [ ] giving the change
     -   [ ] transposition cipher
@@ -61,8 +63,12 @@
     -   [ ] matura exercises
 
 -   [x] **Access**
+
     -   [x] database relationships
     -   [ ] matura exercises
+
+-   [ ] **Others**
+    -   [ ] operations on binary numbers
 
 ## Resources
 
