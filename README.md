@@ -41,12 +41,12 @@
     -   [x] checking whether a point belongs to an area
     -   [x] searching for substring
     -   [x] sorting by lexicographical order
-    -   [ ] binary tree
+    -   [x] binary search
+    -   [x] factorial number system
     -   [ ] intersections of sectors
     -   [ ] giving the change
-    -   [ ] factorial number system
-    -   [ ] Huffman coding
     -   [ ] transposition cipher
+    -   [ ] Huffman coding
     -   [x] morse code
     -   [x] determining the roots of a function
     -   [x] strtol - converting string to long int
