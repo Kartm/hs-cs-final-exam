@@ -18,7 +18,7 @@
     -   [x] palindromes
     -   [x] anagrams
     -   [x] files - operations on files (write/save)
-    -   [x] splitting - splitting strings, numbers
+    -   [x] splitting - splitting strings
     -   [x] conversion between numeral systems
     -   [x] caesar cipher
     -   [x] factorization
@@ -35,17 +35,19 @@
     -   [x] utilizing Horner's method to calculate the value of a polymonial
     -   [x] utilizing Horner's method for converting to decimals
     -   [x] checking the rule of a triangle
-    -   [ ] location of points relative to a line
-    -   [ ] checking whether a point belongs to a line
-    -   [ ] intersections of sectors
-    -   [ ] checking whether a point belongs to an area
-    -   [ ] searching for substring
+    -   [x] distance between points
+    -   [x] location of points relative to a line
+    -   [x] checking whether a point belongs to a sector
+    -   [x] checking whether a point belongs to an area
+    -   [x] searching for substring
+    -   [x] sorting by lexicographical order
     -   [ ] binary tree
-    -   [ ] sorting by lexicographical order
+    -   [ ] intersections of sectors
     -   [ ] giving the change
-    -   [ ] morse code
+    -   [ ] factorial number system
     -   [ ] Huffman coding
     -   [ ] transposition cipher
+    -   [x] morse code
     -   [x] determining the roots of a function
     -   [x] strtol - converting string to long int
 
