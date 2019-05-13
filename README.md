@@ -44,7 +44,7 @@
     -   [x] binary search
     -   [x] factorial number system
     -   [ ] calculating pi
-    -   [ ] upper/lower case
+    -   [x] upper/lower case
     -   [ ] intersections of sectors
     -   [ ] giving the change
     -   [ ] transposition cipher
@@ -53,22 +53,22 @@
     -   [x] determining the roots of a function
     -   [x] strtol - converting string to long int
 
--   [ ] **Networking**
+-   [x] **Networking**
 
-    -   [ ] IPv4 and networking basics (in theory)
+    -   [x] IPv4 and networking basics (in theory)
 
--   [ ] **Excel**
+-   [x] **Excel**
 
     -   [x] Note useful functions
-    -   [ ] matura exercises
+    -   [x] matura exercises
 
 -   [x] **Access**
 
     -   [x] database relationships
-    -   [ ] matura exercises
+    -   [x] matura exercises
 
--   [ ] **Others**
-    -   [ ] operations on binary numbers
+-   [x] **Others**
+    -   [x] operations on binary numbers
 
 ## Resources
 

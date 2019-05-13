@@ -1,0 +1,39 @@
+Host IP address
+192.168.1.145
+
+Subnet mask
+255.255.255.128 or /25
+
+---------------------
+
+1. calculating the network address
+
+a) convert the host IP address and the subnet mask to its binary representations
+11000000101010000000000110010001
+11111111111111111111111110000000
+b) operation AND (multiply each column)
+11000000101010000000000110000000 -> 192.168.1.128
+
+192.168.1.128 is the network adress
+
+2. calculating the network's broadcast address
+
+a) convert the subnet mask to its binary representation and transform it using NOT operation
+00000000.00000000.00000000.01111111 -> 0.0.0.127
+b) add it to the network address
+192.168.1.128
++   0.0.0.127
+=192.168.1.255
+
+192.168.1.255 is the network's broadcast adress
+
+3. calculating the number of hosts in the network
+2^(amount of zeroes in the mask) - 2
+2^7-2=126
+
+4. addresses of the first and last hosts in the network
+network address: 192.168.1.128
+the first host: 192.168.1.129
+
+broadcast address: 192.168.1.255
+the last host: 192.168.1.254

@@ -1,0 +1,15 @@
+5.1
+Ligowe - 113
+Pucharowe - 25
+
+5.2
+Nocne Pumy
+Zwinne Mewy
+
+5.3
+wygrane:	579
+przegrane:	452
+zremisowane:	170
+
+5.4
+22

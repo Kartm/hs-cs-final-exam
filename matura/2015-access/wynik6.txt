@@ -1,0 +1,28 @@
+6.1
+Australia 2010
+
+6.2
+Indie
+
+6.3
+2000 - SumaOfPunkty	Imie	Nazwisko
+108	Michael	Schumacher
+
+2006 - SumaOfPunkty	Imie	Nazwisko
+134	Fernando	Alonso
+
+2012 - SumaOfPunkty	Imie	Nazwisko
+281	Sebastian	Vettel
+
+6.4
+Kraj	PoliczOfId_kierowcy
+Australia	21
+Brazylia	24
+Finlandia	19
+Francja	14
+Hiszpania	18
+Japonia	9
+Meksyk	7
+Niemcy	46
+Wenezuela	5
+Wielka Brytania	37
