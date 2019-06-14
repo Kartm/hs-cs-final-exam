@@ -1,6 +1,6 @@
-# hs-it-final-exam
+# hs-cs-final-exam
 
-#### My preperations for the High School Final IT Exam.
+#### My preperations for the High School Final CS Exam.
 
 > For the things we have to learn before we can do them, we learn by doing them.
 >
